@@ -8,7 +8,7 @@
 >
 > 原project链接：[Alexander-H-Liu/End-to-end-ASR-Pytorch](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)
 >
->数据集链接：https://www.kaggle.com/competitions/dlhlp2020spring-asr/data
+>数据集链接（需自行下载后放进data文件夹）：https://www.kaggle.com/competitions/dlhlp2020spring-asr/data
 
 
 
