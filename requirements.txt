@@ -1,0 +1,14 @@
+tqdm
+pandas
+future
+joblib
+pyyaml
+sentencepiece
+tb-nightly
+matplotlib
+
+torch
+numpy
+yaml
+editdistance
+torchaudio

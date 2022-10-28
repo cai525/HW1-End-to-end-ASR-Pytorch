@@ -1,0 +1,18 @@
+# Most of the parameters will be imported from the training config
+src:
+  ckpt: 'ckpt/asr_dlhlp_sd0/best_att.pth'
+  config: 'config/dlhlp/asr_dlhlp.yaml'
+data:
+  corpus:
+    name:  'DLHLP'
+    dev_split: ['dev']
+    test_split: ['test']
+    bucketing: False
+decode:
+  beam_size: 2
+  min_len_ratio: 0.01
+  max_len_ratio: 0.30
+  lm_path: 'ckpt/lm_example_sd0/best_ppx.pth'
+  lm_config: 'config/libri/lm_example.yaml'
+  lm_weight: 0.0
+  ctc_weight: 0.0

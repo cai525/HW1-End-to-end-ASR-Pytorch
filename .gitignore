@@ -1,0 +1,4 @@
+.idea/
+*.wav
+__pycache__/
+/ckpt
