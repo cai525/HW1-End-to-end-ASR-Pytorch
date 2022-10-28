@@ -7,6 +7,8 @@
 > HW1视频介绍：[DLHLP HW1 - YouTube](https://www.youtube.com/watch?v=VWSihdQTTmg)
 >
 > 原project链接：[Alexander-H-Liu/End-to-end-ASR-Pytorch](https://github.com/Alexander-H-Liu/End-to-end-ASR-Pytorch)
+>
+>数据集链接：https://www.kaggle.com/competitions/dlhlp2020spring-asr/data
 
 
 
