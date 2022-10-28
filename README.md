@@ -98,7 +98,7 @@ Note : If the text unit is phoneme, WER = PER and CER is meaningless.
 
 <img src="./img/curve_LAS_ONLY.jpg">
 
-<img src="./img/att_LAS_ONLY.png" >
+<img src="./img/att_LAS_ONLY.png">
 
 ## 问题
 
