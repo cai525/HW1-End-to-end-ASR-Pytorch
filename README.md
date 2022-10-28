@@ -96,9 +96,9 @@ Note : If the text unit is phoneme, WER = PER and CER is meaningless.
 
 训练过程曲线和attention权重可视化见下图：
 
-<img src="../img/curve_LAS_ONLY.jpg">
+<img src="./img/curve_LAS_ONLY.jpg">
 
-<img src="../img/att_LAS_ONLY.png" width=700>
+<img src="./img/att_LAS_ONLY.png" width=700>
 
 ## 问题
 
