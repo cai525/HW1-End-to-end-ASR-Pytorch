@@ -69,7 +69,6 @@ tensorboard --logdir log/
 --config config/dlhlp/decode_dlhlp.yaml --test
 ```
 
-decode.py 114 work
 
 ## 评估结果
 
