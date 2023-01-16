@@ -48,9 +48,9 @@ tensorboard --logdir log/
 
 ### 出现的问题
 
-1. **多线程报错** :  RuntimeError: Tried to serialize object\_\_torch\_\_.src.audio.Delta which does not have a \_\_getstate\_\_ method defined!
+1. **多进程报错** :  RuntimeError: Tried to serialize object\_\_torch\_\_.src.audio.Delta which does not have a \_\_getstate\_\_ method defined!
 
-   暂时改成单线程凑合着用
+   暂时改成单进程凑合着用
 
 2. CTC和LAS混合训练时初始梯度为NAN：
 
